@@ -1,7 +1,7 @@
 README: German
 #Pille der Schleimpilz
 
-![Pille G](Pictures/pille)
+![Pille G](Pictures/pille.jpg)
 
 ###Allgemein:
 Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuchen das Wachstum (Form, Farbe) des Pilzes zu beeinflussen und somit Zeichen entstehen zu lassen und dies in einem Zeitraffer festzuhalten. Danach bearbeiten wir diese Video mit Processing, OpenCV und bereiten die Entstehung visuel auf.
@@ -17,7 +17,7 @@ Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuche
 (Er hat die Farbe der Roten bette leider nicht angenommen)  
 -  Habe hin und wieder destiliertes Wasser zugegeben um ihn vor dem Ausdrocknen zu schützen.
 
-![Erste Versuche](Pictures/first_try)
+![Erste Versuche](Pictures/first_try.jpg)
 
 **2. Pille Bekommt einen Bruder und wird Shootingstar:**
 
