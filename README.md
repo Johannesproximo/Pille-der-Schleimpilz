@@ -21,19 +21,25 @@ Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuche
 
 **2. Pille Bekommt einen Bruder und wird Shootingstar:**
 
-> 1. Es werden Gläser mit destilierten Wasser abgekocht und versucht den Pilz erneut anzusetzten.  
-> (In bis zu 3 Gläsern)
->2.	Erste Versuche mit dem Rassberry Pi (super Cool) werden unternommen die und versucht die Camera zu installieren.
->3.	Nach großen problemen entstehen erste Bilder.
->4. Der Focus der Pi Camera muss Händisch eingestellt werden.
+-  Es werden Gläser mit destilierten Wasser abgekocht und versucht den Pilz erneut anzusetzten.  
+(In bis zu 3 Gläsern)
+- Erste Versuche mit dem Rassberry Pi (super Cool) werden unternommen und versucht die Camera zu installieren.
+- Nach großen problemen entstehen erste unscharfe Bilder.
+- Der Focus der Pi Camera muss Händisch eingestellt werden.
+- Die Pille Brothers wurden mit unterschiedlichem Licht beleuchtet (RGB LED)
+
+![Erste Versuche](Pictures/pille-brothers.jpg)
 
 **3. Pille kommt ins Fotolabor, versuch einer Spiegelfreien Aufnahme mit DSLR CANON 500D**
 
-> 1. Mein Kamerablitz wird eine 60 Watt Lampe. Geschaltet wird durch den Raspberry Pi und einem Relay. (Versuche wurden auch mit LEDs durchgeführt)
-> Eine Kiste wird zum Aufnahmestudio. Der Ort ist eine Dunkle Warme stelle unter der Decke in unserer Abstellkammer.
-> Das Einstellen ist äußerst umständlich da ich schlecht an die DSLR Herankomme und es ein langes versuchen und probieren ist.
-> Unentliche Spiegelungen durch die Lampe erschwären die Aufnahme und ich versuche die mit Schwarzen Karton diese zu reduzieren. Dafür wurde auch der Dekel der Pedrischahle entfernt welches den Nährboden ausdrocknen läst ...
-> Es kam nie zu einem dauerhafen soliden Fotolabor.
+- Mein Kamerablitz wird eine 60 Watt Lampe. Geschaltet wird die Lampe mit einem Relay und dem Raspberry Pi.
+- Eine Kiste wird zum Aufnahmestudio. Der Ort ist eine Dunkle Warme stelle unter der Decke in unserer Abstellkammer.
+- Das Einstellen ist äußerst umständlich da ich schlecht an die DSLR Herankomme. (Daher sollte man von anfang an an einer Kompackten gut zugänglichen Lösung arbeiten...)
+- Unentliche Spiegelungen durch die Lampe erschwären die Aufnahme und ich versuche die mit Schwarzen Karton diese zu reduzieren. Dafür wurde auch der Dekel der Pedrischahle entfernt welches den Nährboden ausdrocknen läst ...  
+ (es empielt sich die Beleuchtung von der Seite einzubauen so werden reflektionen reduziert)
+- Es kam nie zu einem dauerhaften soliden Aufnahme.
+
+![Versuchsaufbau und Spiegelung](Pictures/box-dslr.jpg)
 
 ###Benötigt:
 
