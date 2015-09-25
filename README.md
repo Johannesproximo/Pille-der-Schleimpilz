@@ -1,6 +1,8 @@
 README: German
 #Pille der Schleimpilz
 
+Hier sieht man einen Wachstumsverlauf des Pilzes Pille
+
 ![Pille G](Pictures/pille.jpg)
 
 ###Allgemein:
