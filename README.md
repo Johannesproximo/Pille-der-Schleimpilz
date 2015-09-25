@@ -2,21 +2,20 @@ README: German
 #Pille der Schleimpilz
 
 ##Allgemein:
-Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuchen das Wachstum (Form, Farbe) des Pilzes zu beeinflussen um somit Zeichen und Buchstaben entstehen zu lassen und diese in einem Zeitraffer festzuhalten. Danach bearbeiten wir diese Video mit Processing, OpenCV und bereiten die Entstehung visuel auf.
+Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuchen das Wachstum (Form, Farbe) des Pilzes zu beeinflussen und somit Zeichen entstehen zu lassen und dies in einem Zeitraffer festzuhalten. Danach bearbeiten wir diese Video mit Processing, OpenCV und bereiten die Entstehung visuel auf.
 
 
 **1. Erste Experimentiere mit Pille dem Schleimpilz:**
 	
-> 1. Der Pilz wächst in Warmen Temperaturen von über 20 grad gut.  
-> (Er soll ja bei optimalen bedingungen 1cm pro Stunden wachsen können.)  
-> 2. Versuch wachstum zu Steuern.
-> (Ich habe ihn mit Haverflocken gelockt allerdings ist die Richtung bis jetzt nicht vorhersebar und gezieltes wachsen nicht möglich.)  
-> (vielleicht ist der Närboden schon ein starker einfluss für den Pilz)
-> 3. Versuch den Pilz zu färben
-> (Er hat die Farbe der Roten bette leider nicht angenommen)  
-> 4. Habe hin und wieder destiliertes Wasser zugegeben um ihn vor dem Ausdrocknen zu schützen.
+- Der Pilz wächst in Warmen Temperaturen von über 20 grad und dunkler Umgebung gut.  
+(Er soll ja bei optimalen bedingungen 1cm pro Stunden wachsen können.)  
+- Versuch wachstum zu Steuern.  
+(Ich habe ihn mit Haverflocken gelockt allerdings ist die Richtung bis jetzt nicht vorhersehbar und gezieltes wachsen nicht möglich. Vielleicht ist der Närboden schon ein starker einfluss für den Pilz)
+-  Versuch den Pilz zu färben
+(Er hat die Farbe der Roten bette leider nicht angenommen)  
+-  Habe hin und wieder destiliertes Wasser zugegeben um ihn vor dem Ausdrocknen zu schützen.
 
-(Bilder der gezeichneten Algorithmen)[]!
+(Erste Versuche)[Pictures/first_try]!
 
 **2. Pille Bekommt einen Bruder und wird Shootingstar:**
 
