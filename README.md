@@ -50,7 +50,8 @@ Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuche
 -	Raspberry Pi (Ich hatte einen Raspberry Pi 2 Modell B 1GB)
 -	Micro SDHC Karte für Pi(für das Betriebsystem)  
 -	USB Stromversorgung 5V (Handy Ladekabel bzw. Ladenetzteil)
--	Pi Cobbler (Adafruit Pi T-Cobbler Plus)  
+-	Pi Cobbler (Adafruit Pi T-Cobbler Plus)
+-	[Breadboard](http://www.exp-tech.de/komponenten-zubehoer/breadboards/breadboard-830-630-200) und [Jumper Wires](http://www.exp-tech.de/komponenten-zubehoer/kabel/75-pcs-breadboard-jumper-wires-with-m-m-connectors) 
 -	HDMI Kabel (damit du auch deinen Pi direkt an Bildschirm anschliesen kannst und mit Maus und Tastatur ohne Umwege bedienen)  
 -	Patchkabel (Empfehle aber Wifi Dongel. Damit kannst du dann auch über deinen Laptop den Pi Bedienen)  
 
@@ -94,7 +95,7 @@ Raspberry Pi
 ![15 Segments](Pictures/seven.jpg)
 
 7. Hast du genügen Bilder geschossen kannst du z.B. mit hilfe von Adobie aftereffects versuchen daraus ein Zeitraffer video zu erstellen.
-8. Hast du ein Qalitativ hochwertige Video kannst du nun versuchen mit OpenCV bestimmte dinge zu tracken und somit das Wachstum visuel darstellen.
+8. Hast du ein Qalitativ hochwertige Video kannst du nun versuchen mit [Processing](https://processing.org/) verbunden mit [OpenCV](https://github.com/FH-Potsdam/hello-processing-py-cv-world) bestimmte dinge zu tracken und somit das Wachstum visuel darzustellen.
 
 
 ###Anwenden/Benutzen
