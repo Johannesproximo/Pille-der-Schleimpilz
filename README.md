@@ -45,16 +45,38 @@ Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuche
 
 ###Benötigt:
 
+[Raspberry Pi](https://www.tinkersoup.de/raspberry-pi/):
+
+-	Raspberry Pi (Ich hatte einen Raspberry Pi 2 Modell B 1GB)
+-	Micro SDHC Karte für Pi(für das Betriebsystem)  
+-	USB Stromversorgung 5V (Handy Ladekabel bzw. Ladenetzteil)
+-	Pi Cobbler (Adafruit Pi T-Cobbler Plus)  
+-	HDMI Kabel (damit du auch deinen Pi direkt an Bildschirm anschliesen kannst und mit Maus und Tastatur ohne Umwege bedienen)  
+-	Patchkabel (Empfehle aber Wifi Dongel. Damit kannst du dann auch über deinen Laptop den Pi Bedienen)  
+
+Cameras
+
+-	Pi Cam
+-	DSLR CANON NIKON SONY (Ich hatte eine CANON 500D)
+
+Relai & Lampe 60w
+
+-	[Relais & Co ](http://www.glacialwanderer.com/hobbyrobotics/?p=9) Hier für werden weitere Materialien Benötigt siehe Link(Damit kannst du die 60w Lampe Schalten. Die Anleitung ist fur Arduino funktionerit aber genausogut mit dem Pi)
+
+Schleimpilz
+
 -	Schleimpilz (Physarum polycephalum)
 -	Petrischale mit Närboden
--	Raspberry Pi (Laptop zum bedienen)
--	Lampenfassung,ca. 40 w Lampe, Wiederstände, Transistor, Steckplatine, Pi Coppler, Kabel mit Stecker  
-(ACHTUNG nur wenn ein FI-Schutzschalter im Sicherungskasten vorhanden ist probieren sonst zu gefährlich)
--	Raspberry Pi Camp oder DSLR XXX 
--	Processing und OpenCV
+-	Destiliertes Wasser
+-	Haferflocken oder andere Nahrungsquellen
 
 ###Installation:
 
+Raspberry Pi
+
+1. Installation des Raspberry Pi. Folge dafür der [Anleitung im Video](https://www.raspberrypi.org/help/noobs-setup/)
+2. Verbinde deinen Raspberry mit einem Laptop
+3. Installiere die Raspberry Camp. [Folge dafür der Anleitung](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) welche sogar eine gute Beispiel zeigt.
 1. Starte deinen Raspberry Pi und verbinde in mit deinem Laptop damit du ihn bedienen kannst.
 2. Baue deine Beleutung damit du den Pilz gut fotografieren kannst.
 3. Baue eine Vorrichtung in der du die Camp oder DSLR gut fixieren kannst und dabei noch ein SCharfes bild deiner Petrieschale hast. Gut währe dafür eine stabiele kieste die man verschließen kann, gleichzeitig aber auch noch genügend platz für beleuchtung und Kamerea bietet.
