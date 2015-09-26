@@ -76,10 +76,12 @@ Raspberry Pi
 
 1. Installation des Raspberry Pi. Folge dafür der [Anleitung im Video](https://www.raspberrypi.org/help/noobs-setup/)
 2. Verbinde deinen Raspberry mit einem Laptop
-3. Installiere die Raspberry Camp. [Folge dafür der Anleitung](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) welche sogar eine gute Beispiel zeigt.
-1. Starte deinen Raspberry Pi und verbinde in mit deinem Laptop damit du ihn bedienen kannst.
-2. Baue deine Beleutung damit du den Pilz gut fotografieren kannst.
-3. Baue eine Vorrichtung in der du die Camp oder DSLR gut fixieren kannst und dabei noch ein SCharfes bild deiner Petrieschale hast. Gut währe dafür eine stabiele kieste die man verschließen kann, gleichzeitig aber auch noch genügend platz für beleuchtung und Kamerea bietet.
+3. Installiere die Raspberry Camp. [Folge dafür der Anleitung](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) welche sogar eine gute Beispiel zeigt.  
+4. Installation für eine DSLR. [In diesem Repository erklärt](https://github.com/topada/DSLR-Timelapse-gphoto-RPI) wird es gut.
+2. Zeit für die Beleuchtung:
+	3. falls du nicht den Blitzt in deiner DSLR verwendst oder du etwa mit der Raspberry Camp fotographierst, kannst du jetzt dir eine Beleuchtung bauen ob mit [Relais & 60w Lampe ](http://www.glacialwanderer.com/hobbyrobotics/?p=9) 
+	4. oder einfach nur mit LED Weniger zu empfehlen da du die Linse mit [Zange und viel Gefühl scharfstellen](https://www.youtube.com/watch?v=u6VhRVH3Z6Y) musst.
+3. Nun muss die Beleuchtung und die Camera zusammen geschaltet werden dafür 
 4. Versuche erste testbilder zu schießen um zu sehen ob das Bild scharf ist und du eine Aufnahme über Längere zeit ohne probleme inbekommst. (ACHTUNG ACCU muss bei einer DSLR bestimmt zwischendruch gewechselst werden das sollte möglichsein ohne die DSLR zu verrutschen.
 5. Nun kannst du dienen Pilz versuchen in einer PEtrischale zu zücketen und ihn mit verschiedenen lockmittel zu verführen umd somit zeichen entstehen zu lassen.
 6. Gleichzeitig kannst du diesen Prozess direkt in deiner Vorrichtung beobachten.
