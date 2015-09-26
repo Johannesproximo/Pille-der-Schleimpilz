@@ -89,7 +89,9 @@ Raspberry Pi
 4. Versuche erste Testbilder zu schießen um zu sehen ob das Bild scharf wird. (ACHTUNG ACCU muss bei einer DSLR bei längerer aufnahme gewechselst werden, dies sollte möglichsein ohne die DSLR zu verrutschen.
 5. Nun kannst du dienen Pilz versuchen in deiner Petrischale zu zücketen und ihn mit verschiedenen lockmittel zu verführen umd somit zeichen entstehen zu lassen. Durch die Aufnahme kannst du dies direkt verfolgen.
 
-6. Mein versuch hat sich an einer 
+6. Mein versuch hat sich an an einer 7 Segments bzw. 15 Segments Anzeige ausgerichtet
+
+![15 Segments](Pictures/seven.jpg)
 
 7. Hast du genügen Bilder geschossen kannst du z.B. mit hilfe von Adobie aftereffects versuchen daraus ein Zeitraffer video zu erstellen.
 8. Hast du ein Qalitativ hochwertige Video kannst du nun versuchen mit OpenCV bestimmte dinge zu tracken und somit das Wachstum visuel darstellen.
