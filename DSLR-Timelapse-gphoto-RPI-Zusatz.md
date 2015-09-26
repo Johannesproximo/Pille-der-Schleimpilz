@@ -1,10 +1,12 @@
-#Zusatz für das Repository topada/DSLR-Timelapse-gphoto-RPI
+##Zusatz für das Repository topada/DSLR-Timelapse-gphoto-RPI
 
 Beim dem zweiten Teil von Teil (3) der Anleitung
+
         cd ~
         tar zvxf gphoto2-2.5.3.tar.gz
         cd gphoto2-2.5.3/
         ./configure --prefix=/usr
+        
 hier hatte ich diese Meldung
 
         checking whether popt is required... no
@@ -20,7 +22,8 @@ hier hatte ich diese Meldung
         *
         * Set POPT_CFLAGS and POPT_LIBS correctly.
 
-Mit folgenden Befehl ging es dann aber doch noch weiter:
-sudo apt-get install libpopt-dev
-make
-sudo make install
+Mit folgenden Befehl ging es dann aber doch noch weiter:  
+
+        sudo apt-get install libpopt-dev  
+        make  
+        sudo make install
