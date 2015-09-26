@@ -7,7 +7,7 @@ Beim dem zweiten Teil von Teil (3) der Anleitung
         cd gphoto2-2.5.3/
         ./configure --prefix=/usr
         
-hier hatte ich diese Meldung
+hatte ich diese Meldung
 
         checking whether popt is required... no
         checking whether popt is requested... no
@@ -22,7 +22,7 @@ hier hatte ich diese Meldung
         *
         * Set POPT_CFLAGS and POPT_LIBS correctly.
 
-Mit folgenden Befehl ging es dann aber doch noch weiter:  
+Mit folgenden Befehl konnte ich den Fehler beheben:  
 
         sudo apt-get install libpopt-dev  
         make  
