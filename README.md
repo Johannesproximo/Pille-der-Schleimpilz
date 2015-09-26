@@ -79,23 +79,26 @@ Raspberry Pi
 
 2. Verbinde deinen Raspberry mit einem Laptop +++++++ Fehlt noch ++++++
 
-3. Installiere die Raspberry Camp. [Folge dafür der Anleitung](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) welche sogar eine gute Beispiel zeigt. Diese Camp ist weniger zu empfehlen da sie später nur sehr schwer auf eine bestimmte Entfernung scharfzustellen ist.(Dafür benötigst du eine [Zange und viel Gefühl](https://www.youtube.com/watch?v=u6VhRVH3Z6Y)).
-4. Installation für eine DSLR. [In diesem Repository erklärt](https://github.com/topada/DSLR-Timelapse-gphoto-RPI) wird es gut. Ich hatte dabei einen [fehler ich hierin beschreiben und gelöst](https://github.com/Johannesproximo/Pille-der-Schleimpilz/blob/master/DSLR-Timelapse-gphoto-RPI-Zusatz.md) habe.
+3. Installiere die Raspberry Camp. [Folge dafür der Anleitung](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) , mit Timelaps beispiel. Diese Pi Camp unsere Pilzaufnahmen weniger geeignet, da sie nur sehr schwer auf eine bestimmte Entfernung scharfzustellen ist.(Dafür benötigst du eine [Zange und viel Gefühl](https://www.youtube.com/watch?v=u6VhRVH3Z6Y)).
+4. Installation einer DSLR. Wird gut [In diesem Repository erklärt](https://github.com/topada/DSLR-Timelapse-gphoto-RPI). Bei meiner Canon 500D trat dabei ein Fehler auf den ich in Folgenden Link [erklärt und Gelöst](https://github.com/Johannesproximo/Pille-der-Schleimpilz/blob/master/DSLR-Timelapse-gphoto-RPI-Zusatz.md) habe.
 2. Zeit für die Beleuchtung:
-	3. falls du nicht deinen Blitzt der DSLR verwendst oder du etwa mit der Raspberry Camp fotographierst, kannst du dir eine Beleuchtung bauen ob mit [Relais & 60w Lampe ](http://www.glacialwanderer.com/hobbyrobotics/?p=9) 
-	4. oder einfach nur mit LED für die Raspberry Camp
+	3. falls du nicht deinen Blitzt(DSLR) verwendst oder du etwa doch mit der Raspberry Camp fotographierst, kannst du dir eine Beleuchtung bauen. [Relais & 60w Lampe ](http://www.glacialwanderer.com/hobbyrobotics/?p=9) 
+	4. oder mit LEDs genügent lich für eine Aufnahme mit der Raspberry Camp erzeugen.(++++fehlt noch++++)
 
 3. Nun muss die Beleuchtung und die Camera zusammen geschaltet werden dafür ++++++ Fehlt noch ++++
 
-4. Versuche erste Testbilder zu schießen um zu sehen ob das Bild scharf wird. (ACHTUNG ACCU muss bei einer DSLR bei längerer aufnahme gewechselst werden, dies sollte möglichsein ohne die DSLR zu verrutschen.
-5. Nun kannst du dienen Pilz versuchen in deiner Petrischale zu zücketen und ihn mit verschiedenen lockmittel zu verführen umd somit zeichen entstehen zu lassen. Durch die Aufnahme kannst du dies direkt verfolgen.
+4. Versuche erst Testbilder zu schießen, um zu sehen ob die Bilder scharf werden. (ACHTUNG DSLR ACCU muss bei längerer aufnahme gewechselst werden, dies sollte möglichsein ohne die DSLR zu verrutschen.
+5. Nun kannst du den Pilz versuchen in deiner Petrischale zu zücketen und geziehlt wachsen zu lasse. Durch die Aufnahme kannst du den Vorgang direkt verfolgen.
 
-6. Mein versuch hat sich an an einer 7 Segments bzw. 15 Segments Anzeige ausgerichtet
+6. Mein versuch hat sich an an einer 7 Segments bzw. 15 Segments Anzeige ausgerichtet. Der Pillz sollte jeweils durch Haferfocken die Jeweiligen Segmente verbinden.
 
 ![15 Segments](Pictures/seven.jpg)
 
-7. Hast du genügen Bilder geschossen kannst du z.B. mit hilfe von Adobie aftereffects versuchen daraus ein Zeitraffer video zu erstellen.
-8. Hast du ein Qalitativ hochwertige Video kannst du nun versuchen mit [Processing](https://processing.org/) verbunden mit [OpenCV](https://github.com/FH-Potsdam/hello-processing-py-cv-world) bestimmte dinge zu tracken und somit das Wachstum visuel darzustellen.
+7. Hast du genügen Bilder geschossen kannst du z.B. mit hilfe von Adobie aftereffects daraus ein Zeitraffer video erstellen.
+
+++++++Video Wird hier noch eingefügt+++++++
+
+8. Hast du ein Qalitativ hochwertiges Video kannst du nun mit [Processing](https://processing.org/) verbunden mit [OpenCV](https://github.com/FH-Potsdam/hello-processing-py-cv-world) das Wachstum tracken und somit visuel darzustellen.
 
 
 ###Anwenden/Benutzen
@@ -103,7 +106,7 @@ Raspberry Pi
 - Aufnahmeeinstellungen mit Pi camp
 - Aufnahmeeinstellungen mit Pi und DSLR
 - Verwendung von Adobie after
-- Verwendung von Processing mit OpenCV
+- Verwendung von [Processing(Anleitung und Beispiele)](https://processing.org/) mit [OpenCV (Anleitung und Beispiele)](https://github.com/FH-Potsdam/hello-processing-py-cv-world)
 
 ###Anmerkungen:
 Ich persönlich hatte es nur zu einen halbwegs brauchbaren Aufnahme des Pilzes geschaft und konnte das Video leider nicht mehr mit Open CV verarbeiten.
