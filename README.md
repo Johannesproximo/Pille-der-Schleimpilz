@@ -41,7 +41,7 @@ Pille der Schleimpilz (Physarum polycephalum)ist ein Projekt in dem wir versuche
  (es empielt sich die Beleuchtung von der Seite einzubauen so werden reflektionen reduziert)
 - Es kam nie zu einem dauerhaften soliden Aufnahme.
 
-![Versuchsaufbau und Spiegelung](Pictures/box-dslr.jpg)
+![Versuchsaufbau und Spiegelung](Pictures/Box-DSLR.jpg)
 
 ###Benötigt:
 
