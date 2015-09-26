@@ -75,18 +75,24 @@ Schleimpilz
 Raspberry Pi
 
 1. Installation des Raspberry Pi. Folge dafür der [Anleitung im Video](https://www.raspberrypi.org/help/noobs-setup/)
-2. Verbinde deinen Raspberry mit einem Laptop
-3. Installiere die Raspberry Camp. [Folge dafür der Anleitung](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) welche sogar eine gute Beispiel zeigt.  
-4. Installation für eine DSLR. [In diesem Repository erklärt](https://github.com/topada/DSLR-Timelapse-gphoto-RPI) wird es gut.
+
+2. Verbinde deinen Raspberry mit einem Laptop +++++++ Fehlt noch ++++++
+
+3. Installiere die Raspberry Camp. [Folge dafür der Anleitung](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) welche sogar eine gute Beispiel zeigt. Diese Camp ist weniger zu empfehlen da sie später nur sehr schwer auf eine bestimmte Entfernung scharfzustellen ist.(Dafür benötigst du eine [Zange und viel Gefühl](https://www.youtube.com/watch?v=u6VhRVH3Z6Y)).
+4. Installation für eine DSLR. [In diesem Repository erklärt](https://github.com/topada/DSLR-Timelapse-gphoto-RPI) wird es gut. Ich hatte dabei einen [fehler ich hierin beschreiben und gelöst](https://github.com/Johannesproximo/Pille-der-Schleimpilz/blob/master/DSLR-Timelapse-gphoto-RPI-Zusatz.md) habe.
 2. Zeit für die Beleuchtung:
-	3. falls du nicht den Blitzt in deiner DSLR verwendst oder du etwa mit der Raspberry Camp fotographierst, kannst du jetzt dir eine Beleuchtung bauen ob mit [Relais & 60w Lampe ](http://www.glacialwanderer.com/hobbyrobotics/?p=9) 
-	4. oder einfach nur mit LED Weniger zu empfehlen da du die Linse mit [Zange und viel Gefühl scharfstellen](https://www.youtube.com/watch?v=u6VhRVH3Z6Y) musst.
-3. Nun muss die Beleuchtung und die Camera zusammen geschaltet werden dafür 
-4. Versuche erste testbilder zu schießen um zu sehen ob das Bild scharf ist und du eine Aufnahme über Längere zeit ohne probleme inbekommst. (ACHTUNG ACCU muss bei einer DSLR bestimmt zwischendruch gewechselst werden das sollte möglichsein ohne die DSLR zu verrutschen.
-5. Nun kannst du dienen Pilz versuchen in einer PEtrischale zu zücketen und ihn mit verschiedenen lockmittel zu verführen umd somit zeichen entstehen zu lassen.
-6. Gleichzeitig kannst du diesen Prozess direkt in deiner Vorrichtung beobachten.
+	3. falls du nicht deinen Blitzt der DSLR verwendst oder du etwa mit der Raspberry Camp fotographierst, kannst du dir eine Beleuchtung bauen ob mit [Relais & 60w Lampe ](http://www.glacialwanderer.com/hobbyrobotics/?p=9) 
+	4. oder einfach nur mit LED für die Raspberry Camp
+
+3. Nun muss die Beleuchtung und die Camera zusammen geschaltet werden dafür ++++++ Fehlt noch ++++
+
+4. Versuche erste Testbilder zu schießen um zu sehen ob das Bild scharf wird. (ACHTUNG ACCU muss bei einer DSLR bei längerer aufnahme gewechselst werden, dies sollte möglichsein ohne die DSLR zu verrutschen.
+5. Nun kannst du dienen Pilz versuchen in deiner Petrischale zu zücketen und ihn mit verschiedenen lockmittel zu verführen umd somit zeichen entstehen zu lassen. Durch die Aufnahme kannst du dies direkt verfolgen.
+
+6. Mein versuch hat sich an einer 
+
 7. Hast du genügen Bilder geschossen kannst du z.B. mit hilfe von Adobie aftereffects versuchen daraus ein Zeitraffer video zu erstellen.
-8. Hast du ein Qalitativ hochwertige Video kannst du nun versuchen bestimmte Farben, veränderung mit OpenCV zu tracken und somit das Wachstum visuel darstellen.
+8. Hast du ein Qalitativ hochwertige Video kannst du nun versuchen mit OpenCV bestimmte dinge zu tracken und somit das Wachstum visuel darstellen.
 
 
 ###Anwenden/Benutzen
