@@ -1,4 +1,5 @@
-README: German
+README: German/[English](README-English)
+
 #Pille der Schleimpilz
 
 Hier sieht man einen Wachstumsverlauf des Pilzes Pille
