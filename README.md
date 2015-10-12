@@ -78,7 +78,7 @@ Raspberry Pi
 
 1. Installation des Raspberry Pi. Folge dafür der [Anleitung im Video](https://www.raspberrypi.org/help/noobs-setup/)
 
-2. Verbinde deinen Raspberry mit einem Laptop +++++++ Fehlt noch ++++++
+2. Verbinde deinen Raspberry mit einem Laptop über eine [Remote Desktop controll](https://github.com/Johannesproximo/Remote-Desktop-too-Raspberry-Pi/blob/master/README.md)
 
 3. Installiere die Raspberry Camp. [Folge dafür der Anleitung](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) , mit Timelaps beispiel. Diese Pi Camp unsere Pilzaufnahmen weniger geeignet, da sie nur sehr schwer auf eine bestimmte Entfernung scharfzustellen ist.(Dafür benötigst du eine [Zange und viel Gefühl](https://www.youtube.com/watch?v=u6VhRVH3Z6Y)).
 4. Installation einer DSLR. Wird gut [In diesem Repository erklärt](https://github.com/topada/DSLR-Timelapse-gphoto-RPI). Bei meiner Canon 500D trat dabei ein Fehler auf den ich in Folgenden Link [erklärt und Gelöst](https://github.com/Johannesproximo/Pille-der-Schleimpilz/blob/master/DSLR-Timelapse-gphoto-RPI-Zusatz.md) habe.
@@ -86,7 +86,7 @@ Raspberry Pi
 	3. falls du nicht deinen Blitzt(DSLR) verwendst oder du etwa doch mit der Raspberry Camp fotographierst, kannst du dir eine Beleuchtung bauen. [Relais & 60w Lampe ](http://www.glacialwanderer.com/hobbyrobotics/?p=9) 
 	4. oder mit LEDs genügent lich für eine Aufnahme mit der Raspberry Camp erzeugen.(++++fehlt noch++++)
 
-3. Nun muss die Beleuchtung und die Camera zusammen geschaltet werden dafür ++++++ Fehlt noch ++++
+3. Nun muss die Beleuchtung und die Camera zusammen geschaltet werden dafür schaut euch am besten [dieses repository an](https://github.com/FH-Potsdam/slime-mold-recording-setup)
 
 4. Versuche erst Testbilder zu schießen, um zu sehen ob die Bilder scharf werden. (ACHTUNG DSLR ACCU muss bei längerer aufnahme gewechselst werden, dies sollte möglichsein ohne die DSLR zu verrutschen.
 5. Nun kannst du den Pilz versuchen in deiner Petrischale zu zücketen und geziehlt wachsen zu lasse. Durch die Aufnahme kannst du den Vorgang direkt verfolgen.
@@ -95,9 +95,9 @@ Raspberry Pi
 
 ![15 Segments](Pictures/seven.jpg)
 
-7. Hast du genügen Bilder geschossen kannst du z.B. mit hilfe von Adobie aftereffects daraus ein Zeitraffer video erstellen.
-
-++++++Video Wird hier noch eingefügt+++++++
+7. Hast du genügen Bilder geschossen kannst du z.B. mit hilfe von Adobie aftereffects daraus ein Zeitraffer video erstellen.  
+VIDEO >>
+[![ScreenShot](http://img.youtube.com/vi/K0P-oIHyvpc/0.jpg)](https://youtu.be/K0P-oIHyvpc)
 
 8. Hast du ein Qalitativ hochwertiges Video kannst du nun mit [Processing](https://processing.org/) verbunden mit [OpenCV](https://github.com/FH-Potsdam/hello-processing-py-cv-world) das Wachstum tracken und somit visuel darzustellen.
 
@@ -123,4 +123,4 @@ Falls etwas unklar ist und ihr Fragen habt schreibt mir einfach Johannes.Leick@g
 Viel Spaß
 
 ##Public License
-Copyright (C) 2015 Johannes Leick aka JohannesProximo Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+Copyright (C) 2015 Johannes Leick aka JohannesProximo Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.  
