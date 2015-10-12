@@ -77,7 +77,7 @@ Raspberry Pi
 
 1. Installation des Raspberry Pi. [Follow instructions](https://www.raspberrypi.org/help/noobs-setup/)
 
-2. Connect your Raspberry Pi with your Laptop +++++++ will follow soon ++++++
+2. Connect your Raspberry Pi with [remote control](https://github.com/Johannesproximo/Remote-Desktop-too-Raspberry-Pi/blob/master/README.md) to your Laptop
 
 3. Installation of Raspberry Camp. [Follow instructions](https://www.youtube.com/watch?t=65&v=8xWy3g2QAZ8) It contains a good example of a time-lapse also. The Pi Camp is not convenient for our project, because it is not easy to focus on close objects (Therefor you ne a [tongs and lots of sense] (https://www.youtube.com/watch?v=u6VhRVH3Z6Y)).
 4. Installation for DSLR. [Follow instructions of the Repository](https://github.com/topada/DSLR-Timelapse-gphoto-RPI) . By Following the instructions of the Repository I have got an error which I solved in the following instructions so [take a look if you get problems](https://github.com/Johannesproximo/Pille-der-Schleimpilz/blob/master/DSLR-Timelapse-gphoto-RPI-Zusatz.md).
@@ -85,14 +85,19 @@ Raspberry Pi
 	3. if you do not use the flash of your DSLR or if you are using the Raspberry Pi Camp, you are able to build lights with [Relays & 60w Lampe](http://www.glacialwanderer.com/hobbyrobotics/?p=9) 
 	4. or simply only with LED for the Raspberry Pi Camp
 
-3. Now we have to connect the lights (LED or 60W) to the with Pi and Camp to activate both in the same time ++++++ Instruction will follow ++++
+3. Now we have to connect the lights (LED or 60W) to the with Pi and Camp to activate both in the same time. A good description proviedes [this repository](https://github.com/FH-Potsdam/slime-mold-recording-setup).
 
 4. Take some test shots, to see if the pictures are sharp. (Attention ACCU, for a longer time of records with DSLR you have to change the ACCU without changing the position of the DSLR.
 5. Now you let the mushroom grow in a Petrischale and try to feet him with different food. Let him grow for since and following the process with the DSLR or Camp.
 6. I tried to build since with the mushroom was inspirited by the digital 7 Segments / 15 Segments displays
 ![15 Segments](Pictures/seven.jpg)
 
-7. When you have enough pictures you can build a time laps move with Adobe after effects.
+7. When you have enough pictures you can build a time laps move with Adobe after effects.  
+
+VIDEO >>
+[![ScreenShot](http://img.youtube.com/vi/K0P-oIHyvpc/0.jpg)](https://youtu.be/K0P-oIHyvpc)
+
+
 8. If you creates a good move with a good quality you can try to create a nice visualization of the process of growing with the help of [Processing](https://processing.org/) connected with [OpenCV](https://github.com/FH-Potsdam/hello-processing-py-cv-world.
 
 
@@ -118,4 +123,4 @@ In case you have some question or something is not understandable, simply contac
 
 
 ##Public License
-Copyright (C) 2015 Johannes Leick aka JohannesProximo Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.
+Copyright (C) 2015 Johannes Leick aka JohannesProximo Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed.  
