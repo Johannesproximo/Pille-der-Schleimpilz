@@ -1,4 +1,4 @@
-README: German/[English](README-English.md)
+README: German/[English](README.md)
 
 #Pille der Schleimpilz
 
